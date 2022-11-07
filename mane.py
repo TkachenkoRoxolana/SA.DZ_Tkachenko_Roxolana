@@ -8,3 +8,6 @@ def mane_function(pal):
 # тестова гілка
 def test_function(pal):
    print('Початок тесту-1')
+   print('І кінець!-2', pal)
+
+test_function("Оп-па!!!")
