@@ -6,7 +6,7 @@ def mane_function(pal):
 
 mane_function('Плюх!!! -4')
 
-   # тестова гілка
+# тестова гілка
 def test_function(pal):
    print('Початок тесту-1')
    print('І кінець!-2', pal)
