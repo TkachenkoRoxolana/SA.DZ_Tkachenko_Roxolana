@@ -3,6 +3,13 @@ def mane_function(pal):
    print('Крок-2')
    print('Плиг-3')
 
+
+
+
+
    # тестова гілка
-   def test_function(pal):
-      print('Початок тесту-1')
+def test_function(pal):
+   print('Початок тесту-1')
+   print('І кінець!-2', pal)
+
+test_function("Оп-па!!!")
