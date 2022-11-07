@@ -5,3 +5,11 @@ def mane_function(pal):
    print('Скок-4, iii...', pal)
    
 mane_function('Плюх!!! -4')
+  
+# тестова гілка
+def test_function(pal):
+   print('Початок тесту-1')
+   print('І кінець!-2', pal)
+
+test_function("Оп-па!!!")
+
